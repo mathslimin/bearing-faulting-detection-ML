@@ -29,4 +29,4 @@
     │  │      normal_0_97.mat
 
 
-data数据从 https://github.com/AaronCosmos/wdcnn_bearning_fault_diagnosis下载
+data数据从 https://github.com/AaronCosmos/wdcnn_bearning_fault_diagnosis 下载
