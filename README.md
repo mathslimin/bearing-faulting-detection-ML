@@ -27,3 +27,6 @@
     │  │      12k_Drive_End_OR014@6_0_197.mat
     │  │      12k_Drive_End_OR021@6_0_234.mat
     │  │      normal_0_97.mat
+
+
+data数据从 https://github.com/AaronCosmos/wdcnn_bearning_fault_diagnosis下载
